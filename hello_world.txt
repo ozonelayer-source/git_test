@@ -1,0 +1,1 @@
+This is a text to practice adding committing and pushing a file from the local to the git repository 
